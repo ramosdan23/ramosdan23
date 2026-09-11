@@ -12,5 +12,5 @@ Information Security Analyst with a focus on defensive operations, incident tria
 
 ### 📂 Hands-On Projects & Labs
 
-- **[soc-wazuh-telemetry-lab](./soc-wazuh-telemetry-lab):** Centralized log ingestion, simulated authentication attacks, and 4 structured incident triage reports.
-- **[network-traffic-analysis-wireshark](./network-traffic-analysis-wireshark):** Packet capture investigations (`.pcap`), malicious beacon detection, and log-parsing automation scripts.
+- **[soc-wazuh-telemetry-lab](https://github.com/ramosdan23/soc-wazuh-telemetry-lab):** Centralized log ingestion, simulated authentication attacks, and 4 structured incident triage reports.
+- **[network-traffic-analysis-wireshark](https://github.com/ramosdan23/network-traffic-analysis-wireshark):** Packet capture investigations (.pcap), malicious beacon detection, and log-parsing automation scripts.
